@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Hana Musterman",
+        "category": "Private Household",
+        "city": "Berlin",
+        "state": "Germany",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": " Berlin",
+        "coordinates": {
+            "longitude": 13.381777,
+            "latitude": 52.531677
+        },
+        "description": "Dear Mrs Musterman, through this app we aim to inform you about your daily energy consuptions and the measures that you can take to save the electrical energy. Thank you for your collaboration and we wish on your further understanding.",
+        "imageName": "user"
+    }
+]
