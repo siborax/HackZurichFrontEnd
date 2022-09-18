@@ -10,11 +10,11 @@ import SwiftUI
 struct UserList: View {
     var body: some View {
         NavigationView {
-            List(landmarks) { landmark in
+            List(users) { user in
                 NavigationLink {
-                    LandmarkDetail(landmark: landmark)
+                    UserDetail(user: user)
                 } label: {
-                    LandmarkRow(landmark: landmark)
+                    UserRow(user: user)
                 }
             }
             .navigationTitle("Current User")
